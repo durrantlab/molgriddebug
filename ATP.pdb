@@ -1,0 +1,72 @@
+REMARK 280  ATP, PH 7.5, VAPOR DIFFUSION, SITTING DROP, TEMPERATURE 298K        
+REMARK 620 1 ATP A 501   O1G                                                    
+REMARK 620 2 ATP A 501   O2B  86.6                                              
+REMARK 800 SITE_DESCRIPTION: BINDING SITE FOR RESIDUE ATP A 501                 
+HET    ATP  A 501      31                                                       
+HETNAM     ATP ADENOSINE-5'-TRIPHOSPHATE                                        
+FORMUL   3  ATP    C10 H16 N5 O13 P3                                            
+LINK        MG    MG A 502                 O1G ATP A 501     1555   1555  2.09  
+LINK        MG    MG A 502                 O2B ATP A 501     1555   1555  2.06  
+SITE     1 AC1  5 ATP A 501  HOH A 514  HOH A 520  HOH A 528                    
+HETATM 2124  PG  ATP A 501      46.034  17.442  14.649  1.00  8.07           P  
+ANISOU 2124  PG  ATP A 501     1049    858   1156    103   -185     10       P  
+HETATM 2125  O1G ATP A 501      46.554  18.251  13.486  1.00  6.46           O  
+ANISOU 2125  O1G ATP A 501      841    780    833    141    -77    -20       O  
+HETATM 2126  O2G ATP A 501      47.012  16.440  15.214  1.00  9.86           O  
+ANISOU 2126  O2G ATP A 501     1237    949   1559    287   -271    142       O  
+HETATM 2127  O3G ATP A 501      45.415  18.289  15.759  1.00  9.14           O  
+ANISOU 2127  O3G ATP A 501     1443    976   1050    128     34    -44       O  
+HETATM 2128  PB  ATP A 501      44.166  16.669  12.640  1.00  6.53           P  
+ANISOU 2128  PB  ATP A 501      865    579   1035     51    -49    -22       P  
+HETATM 2129  O1B ATP A 501      44.846  15.767  11.696  1.00  8.60           O  
+ANISOU 2129  O1B ATP A 501     1217    670   1381    142    -44   -222       O  
+HETATM 2130  O2B ATP A 501      44.015  18.092  12.214  1.00  5.78           O  
+ANISOU 2130  O2B ATP A 501      796    521    879     44    -67    -30       O  
+HETATM 2131  O3B ATP A 501      44.807  16.562  14.092  1.00  7.50           O  
+ANISOU 2131  O3B ATP A 501     1215    778    855      0   -149    143       O  
+HETATM 2132  PA  ATP A 501      41.441  16.004  12.024  1.00  6.54           P  
+ANISOU 2132  PA  ATP A 501      979    589    915    -10   -107   -103       P  
+HETATM 2133  O1A ATP A 501      41.868  15.977  10.607  1.00  8.18           O  
+ANISOU 2133  O1A ATP A 501     1081   1121    905   -142   -154   -199       O  
+HETATM 2134  O2A ATP A 501      40.573  14.911  12.597  1.00  7.34           O  
+ANISOU 2134  O2A ATP A 501     1001    528   1259    -15    -22    -31       O  
+HETATM 2135  O3A ATP A 501      42.720  16.073  13.004  1.00  6.94           O  
+ANISOU 2135  O3A ATP A 501     1019    658    958    -43    -81     52       O  
+HETATM 2136  O5' ATP A 501      40.761  17.421  12.230  1.00  6.65           O  
+ANISOU 2136  O5' ATP A 501     1078    581    868     88   -113    -12       O  
+HETATM 2137  C5' ATP A 501      40.228  17.831  13.474  1.00  6.42           C  
+ANISOU 2137  C5' ATP A 501      807    712    917    -12    -29      5       C  
+HETATM 2138  C4' ATP A 501      41.034  18.978  14.030  1.00  5.20           C  
+ANISOU 2138  C4' ATP A 501      744    524    707    -14     70    -29       C  
+HETATM 2139  O4' ATP A 501      41.042  20.083  13.138  1.00  4.96           O  
+ANISOU 2139  O4' ATP A 501      755    401    727     56     46    -22       O  
+HETATM 2140  C3' ATP A 501      40.382  19.568  15.268  1.00  5.52           C  
+ANISOU 2140  C3' ATP A 501      830    602    665     66    100     63       C  
+HETATM 2141  O3' ATP A 501      40.575  18.803  16.426  1.00  7.48           O  
+ANISOU 2141  O3' ATP A 501     1253    818    768    122    105     91       O  
+HETATM 2142  C2' ATP A 501      40.973  20.967  15.342  1.00  4.80           C  
+ANISOU 2142  C2' ATP A 501      653    589    581    121     53    -44       C  
+HETATM 2143  O2' ATP A 501      42.117  20.993  16.172  1.00  6.19           O  
+ANISOU 2143  O2' ATP A 501      800    944    608     84    -83     32       O  
+HETATM 2144  C1' ATP A 501      41.343  21.265  13.892  1.00  4.22           C  
+ANISOU 2144  C1' ATP A 501      601    442    560     93     58    -77       C  
+HETATM 2145  N9  ATP A 501      40.602  22.354  13.240  1.00  3.78           N  
+ANISOU 2145  N9  ATP A 501      361    535    537     67     30     -5       N  
+HETATM 2146  C8  ATP A 501      41.171  23.310  12.442  1.00  4.18           C  
+ANISOU 2146  C8  ATP A 501      562    558    468    -99     72     -5       C  
+HETATM 2147  N7  ATP A 501      40.249  24.145  11.942  1.00  4.47           N  
+ANISOU 2147  N7  ATP A 501      576    605    515    -10     48     -5       N  
+HETATM 2148  C5  ATP A 501      39.058  23.679  12.418  1.00  3.65           C  
+ANISOU 2148  C5  ATP A 501      505    444    435     33     55    -43       C  
+HETATM 2149  C6  ATP A 501      37.744  24.121  12.264  1.00  4.22           C  
+ANISOU 2149  C6  ATP A 501      607    350    644    120     -7      1       C  
+HETATM 2150  N6  ATP A 501      37.382  25.103  11.430  1.00  5.27           N  
+ANISOU 2150  N6  ATP A 501      745    524    732    137     -9    -94       N  
+HETATM 2151  N1  ATP A 501      36.760  23.458  12.935  1.00  4.95           N  
+ANISOU 2151  N1  ATP A 501      520    746    613    -63    110   -121       N  
+HETATM 2152  C2  ATP A 501      37.057  22.401  13.740  1.00  4.70           C  
+ANISOU 2152  C2  ATP A 501      624    581    579    -41    -22      1       C  
+HETATM 2153  N3  ATP A 501      38.297  21.903  13.909  1.00  4.79           N  
+ANISOU 2153  N3  ATP A 501      667    555    596    -55     83    -64       N  
+HETATM 2154  C4  ATP A 501      39.267  22.569  13.244  1.00  3.29           C  
+ANISOU 2154  C4  ATP A 501      514    379    354    -22     56    -29       C  
